@@ -1,3 +1,4 @@
 # TestHowToUseGitHub
 The prupose of this project is testing the use of GitHub.
-Create a new brunch this time
+
+This time add 1 line and delete 1 line
